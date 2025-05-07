@@ -1,0 +1,3 @@
+# --- Motivational GIF ---
+st.header("🔥 Motivation Time")
+st.image("https://raw.githubusercontent.com/atulbambatkar/workout-diet-tracker/main/motivation.gif")
